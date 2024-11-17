@@ -4,6 +4,9 @@ model-paths: ["models"]
 
 
 
+# models:
+#   materialized: "table"
+
 
 
 
