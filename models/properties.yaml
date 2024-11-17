@@ -1,0 +1,9 @@
+models:
+  - name: "dbt1"
+    config:
+     materialized: 'table'
+  - name: "dbt2_UNIONALL"
+    config:
+      materialized: 'view'
+
+
